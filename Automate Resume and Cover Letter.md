@@ -22,9 +22,7 @@ If you want to try my chatbots, you can go to three links below here.
 
 **My 1st chatbot: Resume**
 
-My custom script for my 1st chatbot: - you will be placed my custom script into the instruction section (from the screenshot).
-
-<img width="232" alt="image" src="https://github.com/raminguyen/Custom-Instruction-GPT-4/assets/121649294/4ab6732c-e73e-4529-ace5-be95c02a6787">
+My custom script for my 1st chatbot: - you will be placed my custom script into the instruction section.
 
 
 **Direction**
