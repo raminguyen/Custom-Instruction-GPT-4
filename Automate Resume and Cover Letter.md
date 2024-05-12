@@ -110,8 +110,10 @@ Professional Summary: must include year of experiences, industries, expertise, s
 This is only an example of professional summary looks like:
 
 "Dynamic and detail-oriented Marketing Analyst Intern candidate with a solid foundation in marketing, communications, and public relations, backed by four years of diversified experience in digital marketing, data analysis, and strategic project execution. Proven track record in fostering significant improvements in marketing strategies and customer engagement through data-driven insights and innovative approaches. With a strong academic background in Business Analytics at [name of school] and a passion for technology and innovative solutions, eager to contribute to [name of company]'s mission to design better products, faster. Motivated by the prospect of engaging with global leaders, benefiting from mentorship, and leveraging leadership opportunities within [name of company]'s vibrant and energetic student community."
+
  
 **Key Highlights:** 
+
 
 must be relevant and results oriented.
 
