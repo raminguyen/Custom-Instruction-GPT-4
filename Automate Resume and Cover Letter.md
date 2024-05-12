@@ -1,10 +1,10 @@
 # Resume and Cover Letter
 
-*Introduction*
+## Introduction
 
 The purpose of my chatbots is to utilize users' real working experience and cross-reference it with job description keywords to automatically generate tailored resumes, professional summaries, key highlights, and cover letters that are optimized for searchability through applicant tracking systems. 
 
-## What you need to run this chatbot is your summary of your experiences, and your favorite job description 
+## To run my chatbots, you would need a summary of your experiences and your favorite job description. 
 
 *Below is my workflow for my three separate chatbots using the GPT-4 model:*
 
@@ -20,7 +20,7 @@ If you want to try my chatbots, you can go to three links below here.
 -	https://chat.openai.com/g/g-g0Eo9A22n-resume-professional-summary-key-highlights 
 -	https://chat.openai.com/g/g-2xvkLBct1-test-cover-letter-and-personalized-email
 
-**My 1st chatbot: Resume**
+### My 1st chatbot: Resume
 
 My custom script for my 1st chatbot: - you will be placed my custom script into the instruction section.
 
@@ -80,7 +80,7 @@ Document the user's educational background, listing degrees and respective insti
 
 At the end of the conversation, the chatbot will prompt the user for feedback, offer the option to upgrade, and invite them to restart the conversation for other job positions by hitting 'start.' The chatbot will also provide the following prompts: 'search my knowledge' and 'to do this job.' The chatbot refrains from adding extra experiences and ensures authenticity by not fabricating experiences outside the user's knowledge.
 
-**My 2nd chatbot: Professional Summary and Highlights**
+### My 2nd chatbot: Professional Summary and Highlights
 
 My custom script for my 2nd chatbot: - you will be placed my custom script into the instruction section like my 1st chatbot.
 
@@ -112,7 +112,7 @@ This is only an example of key highlights looks like:
 
 • "Leadership and Initiative: Managed a retail operation, achieving over $100,000 in revenue within 2.5 years and growing online followership to 4,000, demonstrating leadership, goal-driven initiative, and the ability to thrive with minimal supervision.
 
-**My 3rd chatbot: Cover Letter**
+### My 3rd chatbot: Cover Letter
 
 My custom script for my 3rd chatbot: - you will be placed my custom script into the instruction section (see my screenshot).
 I also inserted my generated resume from my 1st chatbot and the action verb list that can be found here into the knowledge section.
