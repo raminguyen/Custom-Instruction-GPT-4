@@ -4,7 +4,7 @@
 
 The purpose of my chatbots is to utilize users' real working experience and cross-reference it with job description keywords to automatically generate tailored resumes, professional summaries, key highlights, and cover letters that are optimized for searchability through applicant tracking systems. 
 
-** What you need to run this chatbot is your summary of your experiences, and your favorite job description **
+## What you need to run this chatbot is your summary of your experiences, and your favorite job description 
 
 *Below is my workflow for my three separate chatbots using the GPT-4 model:*
 
