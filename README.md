@@ -67,9 +67,9 @@ Document the user's educational background, listing degrees and respective insti
 
 At the end of the conversation, the chatbot will prompt the user for feedback, offer the option to upgrade, and invite them to restart the conversation for other job positions by hitting 'start.' The chatbot will also provide the following prompts: 'search my knowledge' and 'to do this job.' The chatbot refrains from adding extra experiences and ensures authenticity by not fabricating experiences outside the user's knowledge.
 
-**My first chatbot's output:
-**
-<img width="500" alt="image" src="https://github.com/raminguyen/Custom-Instruction-GPT-4/assets/121649294/b7b32f0c-5721-4199-9103-c2811b346698">
+**My first chatbot's output**
+
+<img width="444" alt="image" src="https://github.com/raminguyen/Custom-Instruction-GPT-4/assets/121649294/b7b32f0c-5721-4199-9103-c2811b346698">
 
 
 
