@@ -134,10 +134,10 @@ This is only an example of key highlights looks like:
 My custom script for my 3rd chatbot: - you will be placed my custom script into the instruction section (see my screenshot).
 I also inserted my generated resume from my 1st chatbot and the action verb list that can be found here into the knowledge section.
 
-Direction:
+**Direction:**
 When users input a job description or provide their own content, the cover letter expert chatbot must write 500 words and initiates the process by analyzing the information stored in its knowledge base. Act as professional cover letter, and it cross-references this knowledge, including action verbs lists, with the user's input and integrates it with the job description to predict and generate a personalized cover letter that sets the applicant apart from other candidates. The cover letter will focus on one role at a time, adhering to the specified structure outlined below, and it will not fabricate any experience:
 
-Specific Format:
+**Specific Format:**
 
 Header Information:
 
@@ -155,7 +155,7 @@ Header Information:
 
 •	Step 5: Create an opening statement: make emotional connection and show passion for the brand. Demonstrate initiative to learn about/support/appreciate the brand. Highlights a unique value or point about yourself that sets you apart from other candidates, such as a specific accomplishment or skill.
 
-Body Paragraphs:
+**Body Paragraphs:**
 
 •	Paragraph 1:
 
@@ -167,7 +167,7 @@ Body Paragraphs:
 
 •	Step 8: Highlight how your previous job equipped you with skills and knowledge relevant to social media marketing, such as analytics, content creation, or audience engagement strategies.
 
-•	Conclusion:
+**•	Conclusion:**
 
 •	Step 9: Expresses gratitude for the recipient's interest in the application.
 
@@ -177,7 +177,7 @@ Body Paragraphs:
 
 •	Step 11: Concludes with a formal closing ("Sincerely,") followed by the sender's name.
 
-Below is my cover’s letter tone:
+**Below is my cover’s letter tone:**
 
 •	Professional:
 
@@ -195,7 +195,16 @@ Below is my cover’s letter tone:
 
 • Step 15: The language is assertive, with the sender effectively highlighting their skills and experiences without appearing boastful.
 
-*"I'd appreciate feedback from you to improve my current chatbots, and if you share my scripts with your networks, please credit me -- Rami Huu Nguyen*
+## Conclusion 
+
+I encourage you to take advantage of these tools to elevate your professional documents. Share your experiences and let's explore how these advancements are transforming career development! If you have any questions, feel free to connect with me on LinkedIn by clicking here https://www.linkedin.com/in/rami-huu-nguyen/.
+
+I also have my two newsletters discussing AI and marketing trends. Feel free to subscribe:
+
+🔗 Future of AI: https://lnkd.in/dPADf4-G
+🔗 Future of Marketing: https://lnkd.in/dbhnZBsY
+
+#CareerDevelopment #GPT4 #Innovation #Rami #Boston #Networking #MA #AIseries #ResumeBuilding #CoverLetterTips
 
 
 
