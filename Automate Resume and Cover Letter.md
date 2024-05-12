@@ -1,4 +1,4 @@
-# Custom-Instruction-GPT-4
+# Resume and Cover Letter
 
 *Introduction*
 
