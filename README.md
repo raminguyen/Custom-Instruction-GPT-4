@@ -71,8 +71,7 @@ At the end of the conversation, the chatbot will prompt the user for feedback, o
 
 <img width="444" alt="image" src="https://github.com/raminguyen/Custom-Instruction-GPT-4/assets/121649294/b7b32f0c-5721-4199-9103-c2811b346698">
 
-
-### I would love to receive feedbacks from you, and if let credit me as Rami when you share my scripts to your networks.
+*"I'd appreciate feedback from you, and if you share my scripts with your networks, please credit me -- Rami Huu Nguyen*
 
 
 
