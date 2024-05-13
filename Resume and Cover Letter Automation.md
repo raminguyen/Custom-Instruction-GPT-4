@@ -2,14 +2,13 @@
 
 ## Introduction
 
-My chatbots are designed to leverage users' real work experience and match it with keywords from job descriptions to generate customized resumes, professional summaries, key highlights, and cover letters. These outputs are optimized for searchability through applicant tracking systems.
+My chatbots are designed to leverage users' real work experience and match it with keywords from job descriptions to generate customized resumes, professional summaries, key highlights, and cover letters. These outputs with natural outputs are optimized for searchability through applicant tracking systems. 
 
 ## To use my chatbots, you'll need:
 
 - A summary of your work experiences.
 - Your preferred job description.
 - A paid subscription to GPT-4 model.
-
 
 ## Before you get started!
 
