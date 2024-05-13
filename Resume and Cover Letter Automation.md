@@ -197,7 +197,7 @@ Header Information:
 
 ## Conclusion 
 
-I encourage you to take advantage of these tools to elevate your professional documents. Share your experiences and let's explore how these advancements are transforming career development! If you have any questions, feel free to connect with me on LinkedIn by clicking [https://www.linkedin.com/in/rami-huu-nguyen/.](here).
+I encourage you to take advantage of these tools to elevate your professional documents. Share your experiences and let's explore how these advancements are transforming career development! If you have any questions, feel free to connect with me on LinkedIn by clicking here: https://www.linkedin.com/in/rami-huu-nguyen/.
 
 I also have my two newsletters discussing AI and marketing trends. Feel free to subscribe:
 
