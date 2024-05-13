@@ -13,7 +13,7 @@ Feel free to schedule a virtual meeting with me to discuss your bots further: [[
 - Your preferred job description.
 - A paid subscription to GPT-4 model.
 - A summary of your work experiences.
-- For every experience, you should **highlight** your specific experience.
+- For every experience, you should **highlight** your specific experience as a story.
 
 ## Before you get started!
 
