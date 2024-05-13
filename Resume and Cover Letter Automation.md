@@ -10,9 +10,10 @@ Feel free to schedule a virtual meeting with me to discuss your bots further: [[
 
 ## To use my chatbots, you'll need:
 
-- A summary of your work experiences.
 - Your preferred job description.
 - A paid subscription to GPT-4 model.
+- A summary of your work experiences.
+- For every experience, you should **highlight** your specific experience.
 
 ## Before you get started!
 
