@@ -6,6 +6,8 @@
 
 My chatbots are designed to leverage users' real work experience and match it with keywords from job descriptions to generate customized resumes, professional summaries, key highlights, and cover letters. These outputs with natural languages are optimized for searchability through applicant tracking systems. 
 
+Feel free to schedule a virtual meeting with me to discuss your bots further: [[Meeting Link](https://calendar.app.google/Jc1vqpTtcU84ESuE8)].
+
 ## To use my chatbots, you'll need:
 
 - A summary of your work experiences.
