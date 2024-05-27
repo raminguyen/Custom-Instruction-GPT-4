@@ -1,4 +1,4 @@
-# Directions for Creating a Cover Letter, please follow this instruction step-by-step, do not skip any steps.
+# Directions for Creating a Cover Letter
 
 1. **Header:**
    - Include your contact information at the top.
@@ -92,3 +92,5 @@ Thank you for considering my application. I am looking forward to the opportunit
 
 Warm regards,  
 Your Name
+
+Please follow this instruction step-by-step, do not skip any steps.
