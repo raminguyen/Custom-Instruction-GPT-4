@@ -1,6 +1,8 @@
 
 # Steps to Use the Professional or Project Experience Template
 
+View my chatbot [here]([url](https://chatgpt.com/g/g-SRvO1ssH2-resume-professional-and-project-experience)) 
+
 1. **Company and Position:**
    - Start with the company's name, location, and the position held.
    - Include the duration of employment.
